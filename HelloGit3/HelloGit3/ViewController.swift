@@ -16,6 +16,8 @@ class ViewController: UIViewController {
     print("Step 2")
     
     print("Step 3")
+    
+    print("Step 4")
   }
 
 
